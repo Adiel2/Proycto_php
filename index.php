@@ -12,5 +12,8 @@
     
     <h2>Prueba numero  2</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex enim laudantium ad dolor expedita pariatur aliquid voluptatem facilis laborum, totam repellendus deserunt numquam perspiciatis eveniet nihil sunt blanditiis cumque?</p>
+
+    <h3>Prueba numero</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quaerat possimus tempora quo dolorum! Tenetur, numquam cum sed autem porro a excepturi libero ratione aperiam itaque voluptatem id veniam harum?</p>
 </body>
 </html>
